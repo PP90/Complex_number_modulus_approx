@@ -1,0 +1,39 @@
+-------------------------------------------------------------------------------
+--
+-- Title      : List of design files displayed in Active-HDL Design Browser
+-- Active-HDL : StudentEdition 
+-- Workspace  : FirstExample
+-- Design     : MyDesign
+-- Author     : p3
+-- Company    : p3-Soft
+-- Date       : 2015-03-08 10:44:23
+--
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------
+File                 | Comp. | File Status | Design Folder | File Path
+                     | Order |             |               |
+-------------------------------------------------------------------------------------------------------------------
+absBlock.vhd         |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\absBlock.vhd
+absBlock_tb.vhd      |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\absBlock_tb.vhd
+Adder.vhd            |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\Adder.vhd
+Adder_tb.vhd         |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\Adder_tb.vhd
+minMax.vhd           |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\minMax.vhd
+MinMax_tb.vhd        |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\MinMax_tb.vhd
+DivideBy2.vhd        |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\DivideBy2.vhd
+divideBy2_tb.vhd     |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\divideBy2_tb.vhd
+divideBy16.vhd       |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\divideBy16.vhd
+divideBy16_tb.vhd    |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\divideBy16_tb.vhd
+sottrattore.vhd      |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\sottrattore.vhd
+sottrattore_tb.vhd   |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\sottrattore_tb.vhd
+B1.vhd               |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\B1.vhd
+B1_tb.vhd            |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\B1_tb.vhd
+b2.vhd               |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\b2.vhd
+b2_test.vhd          |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\b2_test.vhd
+b3.vhd               |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\b3.vhd
+B3_tb.vhd            |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\B3_tb.vhd
+Project.vhd          |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\Project.vhd
+project_test.vhd     |       | Compiled    |               | c:\My_Designs\FirstExample\MyDesign\src\project_test.vhd
+testBenchProject.awc |       | Modified    |               | c:\My_Designs\FirstExample\MyDesign\src\testBenchProject.awc
+-------------------------------------------------------------------------------------------------------------------
+

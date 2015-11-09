@@ -1,0 +1,110 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=MyDesign
+
+[Library]
+MyDesign=.\MyDesign\MyDesign.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+IMPL_TOOL=
+SYNTH_TOOL=
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+MyDesign=.
+Active_lib=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=      
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/absBlock.vhd=-1
+/absBlock_tb.vhd=-1
+/Adder.vhd=-1
+/Adder_tb.vhd=-1
+/minMax.vhd=-1
+/MinMax_tb.vhd=-1
+/DivideBy2.vhd=-1
+/divideBy2_tb.vhd=-1
+/divideBy16.vhd=-1
+/divideBy16_tb.vhd=-1
+/sottrattore.vhd=-1
+/sottrattore_tb.vhd=-1
+/B1.vhd=-1
+/B1_tb.vhd=-1
+/b2.vhd=-1
+/b2_test.vhd=-1
+/b3.vhd=-1
+/B3_tb.vhd=-1
+/Project.vhd=-1
+/project_test.vhd=-1
+/testBenchProject.awc=-1
+
+[Files.Data]
+.\src\absBlock.vhd=VHDL Source Code
+.\src\absBlock_tb.vhd=VHDL Source Code
+.\src\Adder.vhd=VHDL Source Code
+.\src\Adder_tb.vhd=VHDL Source Code
+.\src\minMax.vhd=VHDL Source Code
+.\src\MinMax_tb.vhd=VHDL Source Code
+.\src\DivideBy2.vhd=VHDL Source Code
+.\src\divideBy2_tb.vhd=VHDL Source Code
+.\src\divideBy16.vhd=VHDL Source Code
+.\src\divideBy16_tb.vhd=VHDL Source Code
+.\src\sottrattore.vhd=VHDL Source Code
+.\src\sottrattore_tb.vhd=VHDL Source Code
+.\src\B1.vhd=VHDL Source Code
+.\src\B1_tb.vhd=VHDL Source Code
+.\src\b2.vhd=VHDL Source Code
+.\src\b2_test.vhd=VHDL Source Code
+.\src\b3.vhd=VHDL Source Code
+.\src\B3_tb.vhd=VHDL Source Code
+.\src\Project.vhd=VHDL Source Code
+.\src\project_test.vhd=VHDL Source Code
+
+.\src\testBenchProject.awc=Accelerated Waveform Configuration
+[Folders]
+Name3=Makefiles
+Directory3=c:\My_Designs\FirstExample\MyDesign\
+Extension3=mak
+Name4=Memory
+Directory4=c:\My_Designs\FirstExample\MyDesign\
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=c:\My_Designs\FirstExample\MyDesign\
+Extension5=dll
+Name6=PDF
+Directory6=c:\My_Designs\FirstExample\MyDesign\
+Extension6=pdf
+Name7=HTML
+Directory7=c:\My_Designs\FirstExample\MyDesign\
+Extension7=

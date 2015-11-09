@@ -1,0 +1,82 @@
+acom -O3 -work MyDesign -2002  $dsn/src/absBlock.vhd $dsn/src/absBlock_tb.vhd $dsn/src/Adder.vhd $dsn/src/Adder_tb.vhd $dsn/src/minMax.vhd $dsn/src/MinMax_tb.vhd $dsn/src/DivideBy2.vhd $dsn/src/divideBy2_tb.vhd $dsn/src/divideBy16.vhd $dsn/src/divideBy16_tb.vhd $dsn/src/sottrattore.vhd $dsn/src/sottrattore_tb.vhd $dsn/src/B1.vhd $dsn/src/B1_tb.vhd $dsn/src/b2.vhd $dsn/src/b2_test.vhd $dsn/src/b3.vhd $dsn/src/B3_tb.vhd $dsn/src/Project.vhd $dsn/src/project_test.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\FirstExample\MyDesign\src\absBlock.vhd
+# Compile Entity "absBlock"
+# Compile Architecture "behav" of Entity "absBlock"
+# File: c:\My_Designs\FirstExample\MyDesign\src\absBlock_tb.vhd
+# Compile Entity "absBlock_tb"
+# Compile Architecture "AbsBlockTest" of Entity "absBlock_tb"
+# File: c:\My_Designs\FirstExample\MyDesign\src\Adder.vhd
+# Compile Entity "Adder"
+# Compile Architecture "behav" of Entity "Adder"
+# File: c:\My_Designs\FirstExample\MyDesign\src\Adder_tb.vhd
+# Compile Entity "Adder_tb"
+# Compile Architecture "AdderTest" of Entity "Adder_tb"
+# File: c:\My_Designs\FirstExample\MyDesign\src\minMax.vhd
+# Compile Entity "minMax"
+# Compile Architecture "behav" of Entity "minMax"
+# File: c:\My_Designs\FirstExample\MyDesign\src\MinMax_tb.vhd
+# Compile Entity "minmax_tb"
+# Compile Architecture "minMaxTest" of Entity "minmax_tb"
+# File: c:\My_Designs\FirstExample\MyDesign\src\DivideBy2.vhd
+# Compile Entity "divideBy2"
+# Compile Architecture "behav" of Entity "divideBy2"
+# File: c:\My_Designs\FirstExample\MyDesign\src\divideBy2_tb.vhd
+# Compile Entity "divideBy2_tb"
+# Compile Architecture "divideBy2Test" of Entity "divideBy2_tb"
+# File: c:\My_Designs\FirstExample\MyDesign\src\divideBy16.vhd
+# Compile Entity "divideBy16"
+# Compile Architecture "behav" of Entity "divideBy16"
+# File: c:\My_Designs\FirstExample\MyDesign\src\divideBy16_tb.vhd
+# Compile Entity "divideBy16_tb"
+# Compile Architecture "divideBy16Test" of Entity "divideBy16_tb"
+# File: c:\My_Designs\FirstExample\MyDesign\src\sottrattore.vhd
+# Compile Entity "diff_block"
+# Compile Architecture "behav" of Entity "diff_block"
+# File: c:\My_Designs\FirstExample\MyDesign\src\sottrattore_tb.vhd
+# Compile Entity "diff_block_tb"
+# Compile Architecture "sottrattoreTest" of Entity "sottrattore_tb"
+# File: c:\My_Designs\FirstExample\MyDesign\src\B1.vhd
+# Compile Entity "B1"
+# Compile Architecture "behav" of Entity "B1"
+# File: c:\My_Designs\FirstExample\MyDesign\src\B1_tb.vhd
+# Compile Entity "b1_tb"
+# Compile Architecture "b1Test" of Entity "b1_tb"
+# File: c:\My_Designs\FirstExample\MyDesign\src\b2.vhd
+# Compile Entity "B2"
+# Compile Architecture "behav" of Entity "B2"
+# File: c:\My_Designs\FirstExample\MyDesign\src\b2_test.vhd
+# Compile Entity "b2_tb"
+# Compile Architecture "b2Test" of Entity "b2_tb"
+# File: c:\My_Designs\FirstExample\MyDesign\src\b3.vhd
+# Compile Entity "B3"
+# Compile Architecture "behav" of Entity "B3"
+# File: c:\My_Designs\FirstExample\MyDesign\src\B3_tb.vhd
+# Compile Entity "b3_tb"
+# Compile Architecture "b3Test" of Entity "b3_tb"
+# File: c:\My_Designs\FirstExample\MyDesign\src\Project.vhd
+# Compile Entity "Project"
+# Compile Architecture "behav" of Entity "Project"
+# File: c:\My_Designs\FirstExample\MyDesign\src\project_test.vhd
+# Compile Entity "project_tb"
+# Compile Architecture "ProjectTest" of Entity "project_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]
+# Preparing list of files to export. Please wait...
+# Finished preparing list of files to export.
+# Exporting single document to pdf...
+# Destination folder is [C:\Users\p3\Desktop\E.C.S. ok\DSD project\VHDL code commented (PDF version)\]
+# Exporting c:\My_Designs\FirstExample\MyDesign\src\Project.vhd (1 of 1)
+# Exporting HDE document [c:\My_Designs\FirstExample\MyDesign\src\Project.vhd] ...
+# HDE document [Project.vhd] exported successfully
+# Export to PDF time: [1 s]
+# Exported PDF file: C:\Users\p3\Desktop\E.C.S. ok\DSD project\VHDL code commented (PDF version)\Project.pdf
+# Preparing list of files to export. Please wait...
+# Finished preparing list of files to export.
+# Exporting single document to pdf...
+# Destination folder is [C:\Users\p3\Desktop\]
+# Exporting c:\My_Designs\FirstExample\MyDesign\src\project_test.vhd (1 of 1)
+# Exporting HDE document [c:\My_Designs\FirstExample\MyDesign\src\project_test.vhd] ...
+# HDE document [project_test.vhd] exported successfully
+# Export to PDF time: [1 s]
+# Exported PDF file: C:\Users\p3\Desktop\project_test.pdf

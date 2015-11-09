@@ -1,0 +1,262 @@
+-------------------------------------------------------------------------------
+--
+-- Title      : List of local and global libraries visible in Library Manager
+-- Active-HDL : StudentEdition 
+-- Workspace  : FirstExample
+-- Design     : MyDesign
+-- Author     : p3
+-- Company    : p3-Soft
+-- Date       : 2015-03-08 10:44:23
+--
+-------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Library                | Mode  | Vendor     | Version                                          | Comment
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+aldec                  | RO    | ALDEC      | Aldec Active-HDL                                 | VHDL PROCEDURES FOR CALLING ASDB, MATLAB, SIGNAL AGENT TASKS FROM THE VHDL CODE, RANDOM PACKAGE
+arriav_pcie_hip_ver    | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAV_PCIE_HIP VERILOG LIBRARY
+altera_lnsim_ver       | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ALTERA_LNSIM VERILOG LIBRARY
+altera                 | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ALTERA VHDL LIBRARY
+altera_ver             | RO    | ALTERA     | ALTERA Quartus II 13.1                           | VERILOG LIBRARY FOR TIMING DESIGNS
+altera_lnsim           | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ALTERA_LNSIM VHDL LIBRARY
+altera_mf_ver          | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ALTERA_MF VERILOG LIBRARY
+altera_mf              | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ALTERA_MF VHDL LIBRARY
+arriaiigz_hssi_ver     | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAIIGZ_HSSI VERILOG LIBRARY
+arriaii_ver            | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAII VERILOG LIBRARY
+arriaii_pcie_hip       | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAII_PCIE_HIP VHDL LIBRARY
+arriaii_hssi           | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAII_HSSI VHDL LIBRARY
+arriaii                | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAII VHDL LIBRARY
+arriaii_hssi_ver       | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAII_HSSI VERILOG LIBRARY
+arriaii_pcie_hip_ver   | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAII_PCIE_HIP VERILOG LIBRARY
+arriaiigz_hssi         | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAIIGZ_HSSI VHDL LIBRARY
+arriaiigz              | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAIIGZ VHDL LIBRARY
+arriaiigz_pcie_hip_ver | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAIIGZ_PCIE_HIP VERILOG LIBRARY
+arriav                 | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAV LIBRARY
+arriav_hssi_ver        | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAV_HSSI VERILOG LIBRARY
+arriaiigz_pcie_hip     | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAIIGZ_PCIE_HIP VHDL LIBRARY
+cycloneiv_pcie_hip_ver | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEIV_PCIE_HIP VERILOG LIBRARY
+arriaiigz_ver          | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAIIGZ VERILOG LIBRARY
+arriavgz_pcie_hip_ver  | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAVGZ_PCIE_HIP VERILOG LIBRARY
+arriavgz_hssi          | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAVGZ_HSSI LIBRARY
+arriavgz               | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAVGZ LIBRARY
+arriav_ver             | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAV VERILOG LIBRARY
+arriavgz_pcie_hip      | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAVGZ_PCIE_HIP LIBRARY
+arriavgz_hssi_ver      | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAVGZ_HSSI VERILOG LIBRARY
+arriavgz_ver           | RO    | ALTERA     | ALTERA Quartus II 13.1                           | ARRIAVGZ VERILOG LIBRARY
+cycloneiiils_ver       | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEIIILS VERILOG LIBRARY
+cycloneiii_ver         | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEIII VERILOG LIBRARY
+cycloneiii             | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEIII VHDL LIBRARY
+cycloneiiils           | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEIIILS VHDL LIBRARY
+cycloneiv_hssi_ver     | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEIV_HSSI VERILOG LIBRARY
+cycloneiv_hssi         | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEIV_HSSI VHDL LIBRARY
+cycloneiv              | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEIV VHDL LIBRARY
+cycloneiv_pcie_hip     | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEIV_PCIE_HIP VHDL LIBRARY
+cycloneive_ver         | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEIVE VERILOG LIBRARY
+cycloneive             | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEIVE VHDL LIBRARY
+cycloneiv_ver          | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEIV VERILOG LIBRARY
+cyclonev_pcie_hip_ver  | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEV_PCIE_HIP VERILOG LIBRARY
+cyclonev_hssi_ver      | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEV_HSSI VERILOG LIBRARY
+cyclonev               | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEV LIBRARY
+cyclonev_ver           | RO    | ALTERA     | ALTERA Quartus II 13.1                           | CYCLONEV VERILOG LIBRARY
+lpm                    | RO    | ALTERA     | ALTERA Quartus II 13.1                           | LPM  VHDL LIBRARY
+lpm_ver                | RO    | ALTERA     | ALTERA Quartus II 13.1                           | LPM VERILOG MODULES LIBRARY
+maxv                   | RO    | ALTERA     | ALTERA Quartus II 13.1                           | MAXV VHDL LIBRARY
+maxii_ver              | RO    | ALTERA     | ALTERA Quartus II 13.1                           | MAXII VERILOG LIBRARY
+maxii                  | RO    | ALTERA     | ALTERA Quartus II 13.1                           | MAXII VHDL LIBRARY
+maxv_ver               | RO    | ALTERA     | ALTERA Quartus II 13.1                           | MAXV VERILOG LIBRARY
+stratixiv_pcie_hip_ver | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXIV_PCIE_HIP VERILOG LIBRARY
+sgate_ver              | RO    | ALTERA     | ALTERA Quartus II 13.1                           | SGATE VERILOG LIBRARY
+sgate                  | RO    | ALTERA     | ALTERA Quartus II 13.1                           | SGATE  VHDL LIBRARY
+stratixiv_hssi         | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXIV_HSSI VHDL LIBRARY
+stratixiv_hssi_ver     | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXIV_HSSI VERILOG LIBRARY
+stratixiii_ver         | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXIII VERILOG LIBRARY
+stratixiv              | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXIV VHDL LIBRARY
+stratixv_pcie_hip_ver  | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXV_PCIE_HIP VERILOG LIBRARY
+stratixiii             | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXIII VHDL LIBRARY
+stratixiv_ver          | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXIV VERILOG LIBRARY
+stratixiv_pcie_hip     | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXIV_PCIE_HIP VHDL LIBRARY
+stratixv_hssi_ver      | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXV_HSSI VERILOG LIBRARY
+stratixv               | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXV VHDL LIBRARY
+stratixv_pcie_hip      | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXV_PCIE_HIP VHDL LIBRARY
+stratixv_hssi          | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXV_HSSI VHDL LIBRARY
+stratixv_ver           | RO    | ALTERA     | ALTERA Quartus II 13.1                           | STRATIXV VERILOG LIBRARY
+xpga                   | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | XPGA VHDL LIBRARY
+ovi_ecp2ms             | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP2 VERILOG LIBRARY
+ecp2s                  | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP2 VHDL LIBRARY
+ec                     | RO    | LATTICE    | LATTICE Diamond 2.2                              | EC VHDL LIBRARY
+ecp2m                  | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP2 VHDL LIBRARY
+ecp2                   | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP2 VHDL LIBRARY
+ecp                    | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP VHDL LIBRARY
+lscdr_work             | RO    | LATTICE    | LATTICE Diamond 2.2                              | LSCDR_ALDEC_WORK LIBRARY
+ecp4u                  | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP4U VHDL LIBRARY
+ecp2ms                 | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP2 VHDL LIBRARY
+ecp3                   | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP3 VHDL LIBRARY
+ecp4um                 | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP4U VHDL LIBRARY
+ice                    | RO    | LATTICE    | LATTICE Diamond 2.2                              | iCEcube2 SB ICE VHDL LIBRARY
+gdx2                   | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | GDX2 VHDL LIBRARY
+gen_aux                | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | GEN_AUX VHDL LIBRARY
+generics               | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | GENERICS VHDL LIBRARY
+lc5kmx                 | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LC5KMX VHDL LIBRARY
+lava1                  | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LAVA1 VHDL LIBRARY
+lat_vhd                | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LAT_VHD VHDL LIBRARY
+lat_vitl               | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LAT_VITL VHDL LIBRARY
+lattice                | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LATTICE VHDL LIBRARY
+j2svlib                | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | J2SVLIB VHDL LIBRARY
+lptm                   | RO    | LATTICE    | LATTICE Diamond 2.2                              | LPTM VHDL LIBRARY
+lc5kb                  | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LC5KB VHDL LIBRARY
+lc5kve                 | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LC5KVE VHDL LIBRARY
+lc4k                   | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LC4K VHDL LIBRARY
+lc5kvg                 | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LC5KVG VHDL LIBRARY
+orca3                  | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | ORCA3 VHDL LIBRARY
+lptm2                  | RO    | LATTICE    | LATTICE Diamond 2.2                              | LPTM2 VHDL LIBRARY
+lscdr_aldec_work       | RO    | LATTICE    | LATTICE Diamond 2.2                              | LSCDR_ALDEC_WORK LIBRARY
+machxo2                | RO    | LATTICE    | LATTICE Diamond 2.2                              | MACHXO2 VHDL LIBRARY
+machxo                 | RO    | LATTICE    | LATTICE Diamond 2.2                              | MACHXO VHDL LIBRARY
+mach                   | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | MACH VHDL LIBRARY
+neoprims               | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | NEOPRIMS VHDL LIBRARY
+orca2                  | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | ORCA2 VHDL LIBRARY
+ort8850_work           | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | ORT8850_WORK LIBRARY
+orspi4_work            | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | ORSPI4_WORK LIBRARY
+orli10g_work           | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | ORLI10G_WORK LIBRARY
+orca4                  | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | ORCA4 VHDL LIBRARY
+orso82g5_work          | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | ORSO82G5_WORK LIBRARY
+ort82g5_work           | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | ORT82G5_WORK LIBRARY
+ovi_ecp                | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP VERILOG LIBRARY
+ovi_ec                 | RO    | LATTICE    | LATTICE Diamond 2.2                              | EC VERILOG LIBRARY
+ovi_ecp2               | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP2 VERILOG LIBRARY
+ovi_machxo2            | RO    | LATTICE    | LATTICE Diamond 2.2                              | MACHXO2 VERILOG LIBRARY
+ovi_ecp2m              | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP2 VERILOG LIBRARY
+pcsa_work              | RO    | LATTICE    | LATTICE Diamond 2.2                              | PCSA_ALDEC_WORK LIBRARY
+ovi_lc5kmx             | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LC5KMX VERILOG LIBRARY
+ovi_ice_timing         | RO    | LATTICE    | LATTICE Diamond 2.2                              | iCEcube2 SB ICE TIMING VERILOG LIBRARY
+ovi_ecp4um             | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP4U VERILOG LIBRARY
+ovi_ecp3               | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP3 VERILOG LIBRARY
+ovi_ecp4u              | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP4U VERILOG LIBRARY
+ovi_ecp2s              | RO    | LATTICE    | LATTICE Diamond 2.2                              | ECP2 VERILOG LIBRARY
+ovi_ice                | RO    | LATTICE    | LATTICE Diamond 2.2                              | iCEcube2 SB ICE VERILOG LIBRARY
+ovi_gdx2               | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | GDX2 VERILOG LIBRARY
+ovi_lc4k               | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LC4K VERILOG LIBRARY
+ovi_lava1              | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LAVA1 VERILOG LIBRARY
+ovi_j2svlib            | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | J2SVLIB VERILOG LIBRARY
+ovi_lc5kb              | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LC5KB VERILOG LIBRARY
+ovi_lc5kve             | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LC5KVE VERILOG LIBRARY
+ovi_lc5kva             | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LC5KVA VERILOG LIBRARY
+ovi_lc5kvg             | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LC5KVG VERILOG LIBRARY
+ovi_lscsub             | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LSCSUB VERILOG LIBRARY
+ovi_lptm2              | RO    | LATTICE    | LATTICE Diamond 2.2                              | LPTM2 VERILOG LIBRARY
+ovi_lptm               | RO    | LATTICE    | LATTICE Diamond 2.2                              | LPTM VERILOG LIBRARY
+ovi_lsc                | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | LSC VERILOG LIBRARY
+ovi_mach               | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | MACH VERILOG LIBRARY
+ovi_machxo             | RO    | LATTICE    | LATTICE Diamond 2.2                              | MACHXO VERILOG LIBRARY
+ovi_orca4              | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | ORCA4 VERILOG LIBRARY
+ovi_orca2a             | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | ORCA2A VERILOG LIBRARY
+ovi_mgen_vlog          | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | MGEN VERILOG LIBRARY
+ovi_orca2              | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | ORCA2 VERILOG LIBRARY
+ovi_neoprims           | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | NEOPRIMS VERILOG LIBRARY
+ovi_orca3              | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | ORCA3 VERILOG LIBRARY
+ovi_vlog_macro         | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | VLOG_MACRO VERILOG LIBRARY
+ovi_sc                 | RO    | LATTICE    | LATTICE Diamond 2.2                              | SC VERILOG LIBRARY
+ovi_powr               | RO    | LATTICE    | LATTICE Diamond 2.2                              | POWR VERILOG LIBRARY
+ovi_scm                | RO    | LATTICE    | LATTICE Diamond 2.2                              | SC VERILOG LIBRARY
+ovi_xp2                | RO    | LATTICE    | LATTICE Diamond 2.2                              | XP2 VERILOG LIBRARY
+ovi_xp                 | RO    | LATTICE    | LATTICE Diamond 2.2                              | XP VERILOG LIBRARY
+ovi_xpga               | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | XPGA VERILOG LIBRARY
+scm                    | RO    | LATTICE    | LATTICE Diamond 2.2                              | SC VHDL LIBRARY
+pcsa_aldec_work        | RO    | LATTICE    | LATTICE Diamond 2.2                              | PCSA_ALDEC_WORK LIBRARY
+pcsc_work_reva         | RO    | LATTICE    | LATTICE Diamond 2.2                              | PCSC_ALDEC_WORK_REVA LIBRARY
+pcsc_aldec_work_reva   | RO    | LATTICE    | LATTICE Diamond 2.2                              | PCSC_ALDEC_WORK_REVA LIBRARY
+pcsc_aldec_work        | RO    | LATTICE    | LATTICE Diamond 2.2                              | PCSC_ALDEC_WORK LIBRARY
+pcsd_aldec_work        | RO    | LATTICE    | LATTICE Diamond 2.2                              | PCSD_ALDEC_WORK LIBRARY
+pcsc_work              | RO    | LATTICE    | LATTICE Diamond 2.2                              | PCSC_ALDEC_WORK LIBRARY
+pcsd_work              | RO    | LATTICE    | LATTICE Diamond 2.2                              | PCSD_ALDEC_WORK LIBRARY
+pmi_work               | RO    | LATTICE    | LATTICE Diamond 2.2                              | PMI_WORK LIBRARY
+powr                   | RO    | LATTICE    | LATTICE Diamond 2.2                              | POWR VHDL LIBRARY
+sc                     | RO    | LATTICE    | LATTICE Diamond 2.2                              | SC VHDL LIBRARY
+sysbus_work            | RO    | LATTICE    | LATTICE ispLEVER Classic 1.7                     | SYSBUS_WORK LIBRARY
+sysbusa_work           | RO    | LATTICE    | LATTICE Diamond 2.2                              | SYSBUSA_ALDEC_WORK LIBRARY
+sysbusa_aldec_work     | RO    | LATTICE    | LATTICE Diamond 2.2                              | SYSBUSA_ALDEC_WORK LIBRARY
+xp2                    | RO    | LATTICE    | LATTICE Diamond 2.2                              | XP2 VHDL LIBRARY
+xp                     | RO    | LATTICE    | LATTICE Diamond 2.2                              | XP VHDL LIBRARY
+exemplar               | RO    | MENTOR     | MENTOR GRAPHICS PRECISION RTL SYNTHESIS 2011a.61 | EXEMPLAR VHDL LIBRARY.
+act2_ver               | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | ACT2 VERILOG LIBRARY
+a500k_ver              | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | A500K VERILOG LIBRARY
+a40mx_ver              | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | A40MX VERILOG LIBRARY
+a3200dx_ver            | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | A3200DX VERILOG LIBRARY
+a3200dx                | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | A3200DX VHDL LIBRARY
+a40mx                  | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | A40MX VHDL LIBRARY
+a42mx_ver              | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | A42MX VERILOG LIBRARY
+a42mx                  | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | A42MX VHDL LIBRARY
+a500k                  | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | A500K VHDL LIBRARY
+a54sxa_ver             | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | A54SXA VERILOG LIBRARY
+a54sx                  | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | A54SX VHDL LIBRARY
+a54sx_ver              | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | A54SX VERILOG LIBRARY
+act1_ver               | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | ACT1 VERILOG LIBRARY
+a54sxa                 | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | A54SXA VHDL LIBRARY
+act2                   | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | ACT2 VHDL LIBRARY
+act1                   | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | ACT1 VHDL LIBRARY
+act3_ver               | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | ACT3 VERILOG LIBRARY
+act3                   | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | ACT3 VHDL LIBRARY
+apa                    | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | APA VHDL LIBRARY
+apa_ver                | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | APA VERILOG LIBRARY
+axcelerator            | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | AXCELERATOR VHDL LIBRARY
+axcelerator_gpset      | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | AXCELERATOR VHDL LIBRARY
+axcelerator_ver        | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | AXCELERATOR VERILOG LIBRARY
+axcelerator_gclr       | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | AXCELERATOR VHDL LIBRARY
+axcelerator_gpset_ver  | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | AXCELERATOR VERILOG LIBRARY
+iglooe_ver             | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | IGLOOE VERILOG LIBRARY
+fusion_ver             | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | FUSION VERILOG LIBRARY
+ex                     | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | EX VHDL LIBRARY
+ex_ver                 | RO    | MICROSEMI  | MICROSEMI LIBERO 9.1 sp5                         | EX VERILOG LIBRARY
+fusion                 | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | FUSION VHDL LIBRARY
+igloo_ver              | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | IGLOO VERILOG LIBRARY
+igloo                  | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | IGLOO VHDL LIBRARY
+iglooe                 | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | IGLOOE VHDL LIBRARY
+iglooplus_ver          | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | IGLOOPLUS VERILOG LIBRARY
+iglooplus              | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | IGLOOPLUS VHDL LIBRARY
+proasic3               | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | PROASIC3 VHDL LIBRARY
+proasic3e_ver          | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | PROASIC3E VERILOG LIBRARY
+proasic3_ver           | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | PROASIC3 VERILOG LIBRARY
+proasic3e              | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | PROASIC3E VHDL LIBRARY
+proasic3l_ver          | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | PROASIC3L VERILOG LIBRARY
+smartfusion2_ver       | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | SMARTFUSION2 VERILOG LIBRARY
+proasic3l              | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | PROASIC3L VHDL LIBRARY
+smartfusion2           | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | SMARTFUSION2 VHDL LIBRARY
+smartfusion            | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | SMARTFUSION VHDL LIBRARY
+smartfusion_ver        | RO    | MICROSEMI  | MICROSEMI LIBERO SOC 11.1 SP3                    | SMARTFUSION VERILOG LIBRARY
+mydesign               | RW    | No Data    | No Data                                          | No Data
+assertions             | RO    | No Data    | No Data                                          | No Data
+ieee                   | RO    | No Data    | No Data                                          | Standard IEEE packages library
+ieee_proposed          | RO    | No Data    | No Data                                          | VHDL '93 compatible version of the proposed packages for the IEEE 1076-2008 standard
+osvvm                  | RO    | No Data    | No Data                                          | No Data
+std                    | RO    | No Data    | No Data                                          | Standard VHDL library
+synopsys               | RO    | No Data    | No Data                                          | Library containing packages with useful functions for std_logic types objects
+vtl_dbg                | RO    | No Data    | No Data                                          | No Data
+vtl                    | RO    | No Data    | No Data                                          | No Data
+vital2000              | RO    | No Data    | No Data                                          | Standard IEEE packages library
+vl                     | RO    | No Data    | No Data                                          | Standard Verilog library
+arcticlinkii_ver       | RO    | QUICKLOGIC | QUICKLOGIC QUICKWORKS 2010.4.1                   | ARCTICLINKII VERILOG LIBRARY
+arcticlinkii           | RO    | QUICKLOGIC | QUICKLOGIC QUICKWORKS 2010.4.1                   | ARCTICLINKII VHDL LIBRARY
+cssp_ppii_platform_ver | RO    | QUICKLOGIC | QUICKLOGIC QUICKWORKS 2010.4.1                   | CSSP_PPII_PLATFORM VERILOG LIBRARY
+cssp_ppii_platform     | RO    | QUICKLOGIC | QUICKLOGIC QUICKWORKS 2010.4.1                   | CSSP_PPII_PLATFORM VHDL LIBRARY
+eclipse_ver            | RO    | QUICKLOGIC | QUICKLOGIC QUICKWORKS 2010.4.1                   | ECLIPSE VERILOG LIBRARY
+eclipse                | RO    | QUICKLOGIC | QUICKLOGIC QUICKWORKS 2010.4.1                   | ECLIPSE VHDL LIBRARY
+pasic                  | RO    | QUICKLOGIC | QUICKLOGIC QUICKWORKS 2010.4.1                   | PASIC VHDL LIBRARY
+polarpro_ver           | RO    | QUICKLOGIC | QUICKLOGIC QUICKWORKS 2010.4.1                   | POLARPRO VERILOG LIBRARY
+pasic_ver              | RO    | QUICKLOGIC | QUICKLOGIC QUICKWORKS 2010.4.1                   | PASIC VERILOG LIBRARY
+polarpro               | RO    | QUICKLOGIC | QUICKLOGIC QUICKWORKS 2010.4.1                   | POLARPRO VHDL LIBRARY
+polarproii_ver         | RO    | QUICKLOGIC | QUICKLOGIC QUICKWORKS 2010.4.1                   | POLARPROII VERILOG LIBRARY
+polarproii             | RO    | QUICKLOGIC | QUICKLOGIC QUICKWORKS 2010.4.1                   | POLARPROII VHDL LIBRARY
+synplify               | RO    | SYNOPSYS   | SYNOPSYS FPGA PRODUCTS I-2013.09-1               | SYNPLIFY VHDL LIBRARY
+cpld_ver               | RO    | XILINX     | XILINX ISE 14.7                                  | CPLD VERILOG LIBRARY
+cpld                   | RO    | XILINX     | XILINX ISE 14.7                                  | CPLD VHDL LIBRARY
+simprims_ver           | RO    | XILINX     | XILINX ISE 14.7                                  | SIMPRIM VERILOG LIBRARY
+secureip               | RO    | XILINX     | XILINX ISE 14.7                                  | SECUREIP LIBRARY
+simprim                | RO    | XILINX     | XILINX ISE 14.7                                  | SIMPRIM VHDL LIBRARY
+unimacro_ver           | RO    | XILINX     | XILINX ISE 14.7                                  | UNIMACRO VERILOG LIBRARY
+unimacro               | RO    | XILINX     | XILINX ISE 14.7                                  | UNIMACRO VHDL LIBRARY
+uni9000_ver            | RO    | XILINX     | XILINX ISE 14.7                                  | UNISIM VERILOG LIBRARY FOR XC9000 FAMILY
+unisims_ver            | RO    | XILINX     | XILINX ISE 14.7                                  | UNISIM VERILOG LIBRARY
+xilinxcorelib_ver      | RO    | XILINX     | XILINX ISE 14.7                                  | XILINXCORELIB VERILOG LIBRARY
+unisim                 | RO    | XILINX     | XILINX ISE 14.7                                  | UNISIM VHDL LIBRARY
+xilinxcorelib          | RO    | XILINX     | XILINX ISE 14.7                                  | XILINXCORELIB VHDL LIBRARY
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
